@@ -1,0 +1,151 @@
+table
+{
+	width: 728px;
+}
+
+.edition
+{
+	background-color: #F9F9F9;
+	color: #CC0033;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 13px;
+	margin-top: 15px;
+}
+
+.calendrier
+{
+	margin-left: 10px;
+	margin-right: -29px;
+}
+
+.image-spotlight
+{
+	margin-top: -5px;
+}
+
+.image-article-spotlight
+{
+	width: 250px;
+}
+
+h2
+{
+	font-family: arial;
+	font-size: 18px;
+	color: #B1002C;
+	font-weight: bold;
+}
+
+.article-spotlight 
+{
+	font-family: arial;
+	font-weight: bold;
+	font-size: 12.5px;
+	color: black;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+.suite
+{
+	color: #B1002C;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.actualites
+{
+	margin-bottom: -10px;
+}
+
+.image-article 
+{
+	width: 150px;
+	margin-top: 20px;
+}
+
+h4
+{
+	font-family: arial;
+	color: black;
+	font-size: 14px;
+	margin-top: 15px;
+	margin-left: 5px;
+}
+
+h5
+{
+	font-family: arial;
+	color: #B1002C;
+	font-size: 12px;
+	margin-top: -15px;
+	margin-left: 5px;
+}
+
+p
+{
+	font-family: arial;
+	color: black;
+	font-size: 13px;
+	margin-top: -15px;
+	margin-left: 5px;
+}
+
+.article-impaire
+{
+	background-color: #F0F0F0;
+}
+
+.footer
+{
+	background-color: #A0A0A0;
+}
+
+
+.logo-vidal
+{
+	float: right;
+	margin-top: 10px;
+}
+
+.logo-eureka
+{
+	float: left;
+	margin-top: 10px;
+}
+
+.compte
+{
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.compte > a 
+{
+	color: white;
+	text-decoration: underline;
+}
+
+.compte-desabonnement
+{
+	color: white;
+	text-align: center;
+}
+
+.compte-desabonnement > a 
+{
+	color: white;
+	text-decoration: underline;
+}
+
+.texte-footer
+{
+	color: white;
+	margin-top: 10px;
+	font-size: 12px;
+}

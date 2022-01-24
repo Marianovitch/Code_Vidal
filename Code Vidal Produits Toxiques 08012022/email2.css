@@ -1,0 +1,113 @@
+table
+{
+	width: 600px;
+	background-color:#262626;
+	border-bottom: solid;
+	border-color: #FF7B8C;
+}
+
+h1
+{
+	color: white;
+	background-color:#262626 ;
+	text-align: center;
+	font-family: arial;
+}
+
+.text-article
+{
+	color: white;
+	font-family: arial;
+	text-align: center;
+	font-size: 22px;
+	margin-right: 35px;
+	margin-left: 35px;
+}
+
+.image-thon
+{
+	 margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+
+}
+
+.answer
+{
+	background-color: #C25D6A;
+	display:block;
+	width : 150px;
+	line-height:17px;
+	text-align:center;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 17px;
+	margin: 0 auto;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-top: 10px;
+}
+
+.toxin
+{
+	color:#C25D6A;
+	font-family: arial;
+	font-weight: bold;
+}
+
+.text-produits
+{
+	text-align: center;
+	color: white;
+	font-family: arial;
+}
+
+.logo-vidal
+{
+	max-width: 50%;
+ 	max-height: 40%;
+ 	float: right;
+ 	margin-left: 10px;
+ 	margin-bottom: -3px;
+ 	margin-right: -3px;
+}
+
+.image-logo > div img
+{
+	width: 40px;
+	height:40px;
+	margin-top: -2.9px;
+	margin-left: -2.6px;
+}
+
+
+.conteneur
+{
+	display:  flex;
+
+}
+
+.logo-tableau
+{
+	background-color: #373737;
+	border: none;
+}
+
+.footer-background
+{
+	background-color: #373737;
+	border : none;
+}
+
+footer
+{
+	color: #868686;
+	font-family: arial;
+	font-size: 12px;
+	text-align: center;
+}
+
+a
+{
+	text-decoration: none;
+}
